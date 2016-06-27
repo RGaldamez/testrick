@@ -22,3 +22,6 @@ Steps:
 7. Add buildpack: (current buildpack) https://github.com/kevinseguin/heroku-buildpack-meteor.git
 
 8. Deploy.
+
+
+Result with this test: https://testrick42.herokuapp.com/
