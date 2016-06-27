@@ -13,6 +13,7 @@ Steps:
 4. make user admin in mlab db
 
 5.make herokuapp
+
 6.change next settings:
   add:
      MONGO_URL: with mongo url db from mlab
